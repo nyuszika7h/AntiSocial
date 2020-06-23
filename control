@@ -1,7 +1,7 @@
 Package: com.tonykraft.antisocial
 Name: AntiSocial
 Depends: mobilesubstrate
-Version: 0.1.1
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Leave any group chat
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
